@@ -1,0 +1,6 @@
+
+pyautogui
+time
+pandas
+pyperclip
+
